@@ -1,4 +1,4 @@
-Assignmewnt 2 - To do List Creation
+Assignment 2 - To do List Creation
 
 Features
  - Add, delete, and mark tasks as complete
